@@ -1,0 +1,10 @@
+(1,'City General','Delhi','+91 1234567890'),
+(2,'Metro Hospital','Mumbai','+91 2345678901'),
+(3,'Grace Hospital','Kolkata','+91 3456789012'),
+(4,'Rainbow Hospital','Bangalore','+91 4567890123'),
+(5,'Riverside Hospital','Pune','+91 5678901234'),
+(6,'Sunshine Hospital','Hyderabad','+91 6789012345'),
+(7,'Valley Hospital','Chennai	','+91 7890123456'),
+(8,'Serenity Hospital',  'Jaipur	','+91 8901234567'),
+(9,'Hillside Hospital',  'Ahmedabad	','+91 9012345678'),
+(1,'Sea Breeze Hospital','Goa	    ','+91 1234567890');
